@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Drishtii</h1>
+<p align="center">
+🌸 IT Student at Medi-Caps University | Curious Learner
+</p>
 
-<!--
-**drishtibundela/drishtibundela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌷 About Me
+- 🎓 20 y/o IT student at Medi-Caps University  
+- 🐍 Python (basics) | 💻 C++ (basics, OOP)  
+- 🛢️ DBMS | 🌐 HTML (basic)  
+- 🎨 Canva, MS Word & Excel  
+- 🤖 AI tools: ChatGPT, Leonardo AI, AI Breeder  
+- 🌏 Learning Korean & Japanese 🌱  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills
+- Python, C++, OOP, DBMS, HTML  
+- Git & GitHub  
+- Communication, Teamwork  
+
+---
+
+### 🗣️ Languages
+- English — Fluent  
+- Hindi — Fluent  
+
+---
+
+### 📌 Projects
+- Beginner practice programs  
+- College assignments  
+
+---
+
+### 🤍 Let’s Connect
+💻 https://github.com/drishtibundela  
+
+---
+
+✨ *Still learning, still growing.*  
