@@ -7,18 +7,19 @@
 
 ### 🌷 About Me
 - 🎓 20 y/o IT student at Medi-Caps University  
-- 🐍 Python (basics) | 💻 C++ (basics, OOP)  
-- 🛢️ DBMS | 🌐 HTML (basic)  
-- 🎨 Canva, MS Word & Excel  
-- 🤖 AI tools: ChatGPT, Leonardo AI, AI Breeder  
+- 🐍 Python  | 💻 C++ (basics, OOP)  
+- 🛢️ DBMS (basics) | 🌐 HTML (basics)  
+- 🎨 Canva, MS tools  
+- 🤖 AI tools: ChatGPT, Leonardo AI, AI Breeder etc  
 - 🌏 Learning Korean & Japanese 🌱  
 
 ---
 
 ### 🧠 Skills
-- Python, C++, OOP, DBMS, HTML  
+- Python
+- C++, OOP, DBMS, HTML , DAA ,DS (basics)  
 - Git & GitHub  
-- Communication, Teamwork  
+- Communication, Teamwork ,Managment 
 
 ---
 
@@ -29,7 +30,7 @@
 ---
 
 ### 📌 Projects
-- Beginner practice programs  
+- Beginne practice programs  
 - College assignments  
 
 ---
